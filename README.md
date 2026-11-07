@@ -1,4 +1,6 @@
-
+## Why I made this project
+The main reason I'm making this project is because of cost. There are many many MMWave sensors out there. However, those that gives coordinates as to where a person is in the room often cost a lot of money.
+Hence, I decided to build this project. This project only requires a microcontroller with WiFi capabilities so that it can talk to Home Assistant, as well as an LD2450, to detect mmWave presence.
 
 ## How it works
 1. Through an ESPHome YAML, the YAML will be created and a fimrware can be flashed onto the ESP32
