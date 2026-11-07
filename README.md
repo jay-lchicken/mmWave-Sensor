@@ -11,7 +11,7 @@ Hence, I decided to build this project. This project only requires a microcontro
 2. Esp32
 
 ## Wiring Digarm
-<img width="1025" height="322" alt="Screenshot 2026-11-07 at 2 01 30 PM" src="https://github.com/user-attachments/assets/6be5f1fa-2d63-4a3e-9ba3-1f5a6eae9d5c" />
+<img width="947" height="415" alt="Screenshot 2026-11-07 at 3 05 37 PM" src="https://github.com/user-attachments/assets/ee453768-cb92-4aa2-908a-42149df239f1" />
 
 ## 3D model renders
 <img width="3040" height="1586" alt="96008ea5-9733-4368-9e97-135e732cbe4f" src="https://github.com/user-attachments/assets/dbf05ffb-5bb2-458b-9b1b-ff052d7c5e37" />
